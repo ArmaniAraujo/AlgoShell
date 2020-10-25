@@ -62,7 +62,7 @@ text = '())('
 ```
 **Please follow these steps:**
 1. Write your solution in `solutions/bracket_match.py`
-2. Test your solution with `./AlgoShell.sh bracket_match`
+2. Test your solution with `./AlgoShell.sh BracketMatch`
 
 
 
